@@ -11,6 +11,9 @@ public class ManipulateDna {
    * This a Javadoc comment.
    */   
   public static void main(String[] args) {
+    /** This is a Javadoc comment.
+     * This is a Javadoc comment.
+     */
     // display the name of the programmer and the date
     System.out.println("Gregory M. Kapfhammer " + new Date());
     // declare the starting file and scanner
